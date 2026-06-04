@@ -55,9 +55,9 @@
 
 | Download Source | Version | Filename                                                                                                            |
 |----------------|---------|---------------------------------------------------------------------------------------------------------------------|
-| 🏠 GitHub Release | 1.12.4  | [SFA-1.12.4-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.12.4/SFA-1.12.4-universal.apk) |
-| 🚀 Mirror Accelerator 1 | 1.12.4  | [Accelerated Download](https://cdn.jsdmirror.com/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk) |
-| 🚀 Mirror Accelerator 2 | 1.12.4  | [Backup Link](https://cdn.jsdmirror.cn/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk)           |
+| 🏠 GitHub Release | 1.14.4  | [SFA-1.12.4-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0-alpha.28/SFA-1.14.0-alpha.28-universal.apk) |
+| 🚀 Mirror Accelerator 1 | 1.14.4  | [Accelerated Download](https://ghproxy.net/https://github.com/SagerNet/sing-box/releases/download/v1.14.0-alpha.28/SFA-1.14.0-alpha.28-universal.apk) |
+| 🚀 Mirror Accelerator 2 | 1.14.4  | [Backup Link](https://gh.xxooo.cf/https://github.com/SagerNet/sing-box/releases/download/v1.14.0-alpha.28/SFA-1.14.0-alpha.28-universal.apk)           |
 
 ### 🛠️ Installation Guide
 
