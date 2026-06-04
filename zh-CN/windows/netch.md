@@ -38,9 +38,10 @@
 
 | 下载源 | 类型 | 稳定性 | 推荐度 |
 |-------|------|--------|--------|
+| [📦 官方 GitHub](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | 官方源 | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | [🚀 镜像加速 1](https://git.886.be/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | 镜像源 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | [⚡ 镜像加速 2](https://gh.xxooo.cf/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | 镜像源 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [📦 官方 GitHub](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | 官方源 | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+
 
 ### 📋 版本信息
 

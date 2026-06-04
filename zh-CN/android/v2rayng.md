@@ -32,10 +32,10 @@
 
 | 下载源 | 类型 | 链接 |
 |--------|------|------|
-| 🏠 GitHub 官方 | APK | [v2rayNG_1.9.33_universal.apk](https://github.com/2dust/v2rayNG/releases/download/1.9.33/v2rayNG_1.9.33_universal.apk) |
-| 🚀 加速镜像1 | APK | [下载地址](https://git.886.be/https://github.com/2dust/v2rayNG/releases/download/1.9.33/v2rayNG_1.9.33_universal.apk) |
-| 🚀 加速镜像2 | APK | [下载地址](https://gh.xxooo.cf/https://github.com/2dust/v2rayNG/releases/download/1.9.33/v2rayNG_1.9.33_universal.apk) |
-| 📱 备用地址 | APK | [下载地址](https://dl.v2rayng.org/releases/latest/v2rayNG_1.8.12.apk) |
+| 🏠 GitHub 官方 | APK | [v2rayNG_2.2.3_universal.apk](https://github.com/2dust/v2rayNG/releases/download/2.2.3/v2rayNG_2.2.3_universal.apk) |
+| 🚀 加速镜像1 | APK | [下载地址](https://ghproxy.net/https://github.com/2dust/v2rayNG/releases/download/2.2.3/v2rayNG_2.2.3_universal.apk) |
+| 🚀 加速镜像2 | APK | [下载地址](https://gh.xxooo.cf/https://github.com/2dust/v2rayNG/releases/download/2.2.3/v2rayNG_2.2.3_universal.apk) |
+| 📱 备用地址 | APK | [下载地址](https://github.com/2dust/v2rayNG/releases/download/2.2.3/v2rayNG_2.2.3_universal.apk) |
 
 ### 🛠️ 安装步骤
 

@@ -32,14 +32,14 @@
 
 | 下载源 | 类型 | 速度 | 推荐度 |
 |-------|------|------|--------|
-| [📦 官方 GitHub](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | 官方源 | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [🚀 镜像加速](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | 镜像源 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [🔗 备用链接](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | 备用源 | ⭐⭐⭐ | ⭐⭐⭐ |
+| [📦 官方 GitHub](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe) | 官方源 | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [🚀 镜像加速](https://ghproxy.net/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe) | 镜像源 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| [🔗 备用链接](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe) | 备用源 | ⭐⭐⭐ | ⭐⭐⭐ |
 
 ### 📋 版本信息
 
-- **当前版本**：v1.7.7
-- **文件大小**：约 80MB
+- **当前版本**：v2.5.1
+- **文件大小**：约 44.9MB
 - **文件类型**：Windows 安装程序 (.exe)
 - **数字签名**：✅ 已签名
 
@@ -159,7 +159,7 @@ A: 尝试以下解决方案：
 
 ## 🔄 更新日志
 
-### v1.7.7 (2024.11.16)
+### v2.5.1 (2026.05.20)
 
 - ✨ 新增：支持更多代理协议
 - 🐛 修复：配置更新异常问题

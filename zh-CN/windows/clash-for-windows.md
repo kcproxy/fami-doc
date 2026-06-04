@@ -44,8 +44,8 @@
 | 下载源 | 类型 | 可用性 | 说明 |
 |-------|------|--------|------|
 | [📦 官方源 1](https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe) | 历史版本 | ⚠️ 存档 | 最终版本 |
-| [🚀 镜像源](https://gh.xxooo.cf/https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe) | 镜像加速 | ⚠️ 存档 | 加速下载 |
-| [🔗 备用源](https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe) | 官方备份 | ⚠️ 存档 | 备用下载 |
+| [🚀 镜像源](https://ghproxy.net/https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe) | 镜像加速 | ⚠️ 存档 | 加速下载 |
+| [🔗 备用源](https://gh.xxooo.cf/https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe) | 官方备份 | ⚠️ 存档 | 备用下载 |
 
 ### 📋 版本信息
 
